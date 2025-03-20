@@ -17,7 +17,7 @@ This project is a **containerized web application** designed to fetch and displa
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/vikas-bhat-d/news-app.git
+git clone https://github.com/Shamantak12/news-app.git
 ```
 
 ### **2. Build and Start the Containers**
